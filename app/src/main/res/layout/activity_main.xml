@@ -31,7 +31,8 @@
     android:layout_height="wrap_content"
     android:orientation="horizontal"
     android:background="@drawable/border_item"
-    android:padding="30dp">
+    android:padding="30dp"
+    android:layout_marginBottom="30dp">
 
     <TextView
         android:layout_width="wrap_content"
@@ -39,6 +40,11 @@
         android:text="hola mundo"/>
 
 </LinearLayout>
+
+    <view
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/colorPrimaryDark"></view>
 
 </LinearLayout>
 
