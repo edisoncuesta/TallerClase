@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TallerClase</string>
+    <string name="itm_str_options">opcion</string>
+    <string name="itm_str_close">cerrar</string>
 </resources>
